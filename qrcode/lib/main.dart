@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
             },
             blendMode: BlendMode.dstIn,
             child: Image(
-              width: 300,
+              width: 400,
               image: NetworkImage(
                   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1XF04fNrnHwU1za5gDWfQ-xmsWjEHlr3LQ&usqp=CAU"),
             ),
